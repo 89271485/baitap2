@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baitap1", "baitap1\baitap1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baitap3", "baitap3\baitap3.csproj", "{04202330-9D4A-422D-8397-6F98B0BB4A4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baitap5", "baitap5\baitap5.csproj", "{D38A5DB6-577E-4320-8A5A-26D1A4236F17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{04202330-9D4A-422D-8397-6F98B0BB4A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04202330-9D4A-422D-8397-6F98B0BB4A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04202330-9D4A-422D-8397-6F98B0BB4A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D38A5DB6-577E-4320-8A5A-26D1A4236F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38A5DB6-577E-4320-8A5A-26D1A4236F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38A5DB6-577E-4320-8A5A-26D1A4236F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38A5DB6-577E-4320-8A5A-26D1A4236F17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
